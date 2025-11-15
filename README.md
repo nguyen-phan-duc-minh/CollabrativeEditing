@@ -2,6 +2,9 @@
 
 A comprehensive real-time collaborative document editing platform inspired by Google Docs, built with modern web technologies and featuring advanced collaboration capabilities.
 
+**Author:** Nguyễn Phan Đức Minh  
+**Role:** AI Researcher | Deep Learning, Machine Learning
+
 ## 🚀 Tổng quan dự án
 
 MMT Document Collaboration Platform là một hệ thống soạn thảo tài liệu cộng tác thời gian thực, được thiết kế để hỗ trợ nhiều người dùng cùng chỉnh sửa tài liệu một cách đồng bộ và hiệu quả. Hệ thống tích hợp AI Assistant, video call, và các tính năng collaboration hiện đại.
